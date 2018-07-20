@@ -1,0 +1,31 @@
+/* Universal Styles */
+
+body {
+  background: #ECEBEF;
+}
+
+/* Header Styles */ 
+
+header {
+  background: #4e7ba7;
+  width: 100%;
+}
+
+
+/* Main Styles */
+
+/* Accent color should be #d28f1b */
+
+
+main {
+  color: #424246;
+  height: 100vh;
+}
+
+figure {
+  width: 25%;
+  height: 50%;
+  border: 2px solid black;
+}
+
+/* Media Queries */ 
